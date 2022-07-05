@@ -135,3 +135,29 @@ body{
     
 }
 
+.our-team h1{
+    font-size: 45px;
+}
+.our-team-item{
+    display: flex;
+    padding: 100px;
+    justify-content: space-evenly;
+   
+}
+.our-team-item img{
+    width: 250px;
+    border-radius: 50% ;
+    
+}
+.our-team-item h1{
+    font-size: 20px;
+    text-align: center;
+    
+}
+.our-team-item p{
+    font-size: 20px;
+    text-align: center;
+    color: #fa5353;
+    
+}
+
