@@ -15,8 +15,8 @@ body{
 }
 .height-weight{
     width: 60%;
-    margin-left: 23%;
-    color: white;
+    margin-left: 21%;
+   
     text-align: center
     
 }
@@ -30,6 +30,7 @@ body{
 .top-cover h1{
     font-size: 80px;
     font-weight: 900px;
+    color: white;
 }
 .top-cover p{
     font-size: 35px;
@@ -38,7 +39,7 @@ body{
 
 .anchor-button{
     text-decoration: none;
-    background: linear-gradient(45deg, rgb(243, 74, 8), tomato);
+    background: #fa5353;
     padding: 20px 40px;
     border-radius: 16px;
     color: white;
@@ -48,14 +49,14 @@ body{
     padding: 0px;
 }
 .donate-option h1{
-    font-size: 60px;
+    font-size: 45px;
     font-weight: 900px;
     color: black;
 
 }
 .donate-option p{
-    font-size: 25px;
-    color: black;
+    font-size: 18px;
+    color: #707070;
 
 }
 .amount-option {
@@ -80,5 +81,57 @@ body{
 }
 .tk-border h2{
     color: #FF5959;
+}
+
+.other-donate p{
+    color: #B3B3B3;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #B3B3B3;
+    
+}
+
+.donate-plan{
+    padding-top: 30px;
+}
+
+.donate-plan h1{
+    font-size: 45px;
+}
+
+.donate-plan p{
+    color: #707070;
+    font-size: 18px ;
+
+}
+
+.donate-plan-item{
+    display: flex;
+    padding: 100px;
+    justify-content: space-evenly;
+
+}
+
+.donate-plan-item img{
+    width: 15%;
+    
+    
+}
+
+.donate-plan-item h1{
+    padding-top: 20px;
+    font-size: 30px;
+    
+}
+.donate-plan-item p{
+    
+    font-size: 20px;
+    
+}
+#education{
+    padding: 15px;
+    background-color: #fcf0d7;
+    box-shadow: 30px;
+    border-radius: 5px;
+    
 }
 
